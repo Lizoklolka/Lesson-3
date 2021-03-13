@@ -2,7 +2,7 @@
 //  main.swift
 //  Lesson 3
 //
-//  Created by Елизавета Попова on 13.03.2021.
+//  Created by Елизавета on 13.03.2021.
 //
 
 import Foundation
